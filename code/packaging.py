@@ -34,6 +34,10 @@ def parse_packaging(packaging_data: str) -> list[dict]:
 
     return package
 
+'''
+hi
+'''
+
 def calc_total_units(package: list[dict]) -> int:
     '''
     This function calculates the total number of items in a package
